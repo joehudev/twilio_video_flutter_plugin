@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.barkani.twilio.twilio_video
+        package: com.barkani.twilio.video
         pluginClass: TwilioVideoPlugin
       ios:
         pluginClass: TwilioVideoPlugin

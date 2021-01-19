@@ -1,4 +1,4 @@
-group 'com.barkani.twilio.twilio_video'
+group 'com.barkani.twilio.video'
 version '1.0-SNAPSHOT'
 
 buildscript {

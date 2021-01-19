@@ -1,4 +1,4 @@
-package com.barkani.twilio.twilio_video_example
+package com.barkani.twilio.video_example
 
 import io.flutter.embedding.android.FlutterActivity
 

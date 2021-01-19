@@ -1,4 +1,4 @@
-package com.barkani.twilio.twilio_video
+package com.barkani.twilio.video
 
 import androidx.annotation.NonNull
 
